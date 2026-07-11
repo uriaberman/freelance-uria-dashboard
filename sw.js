@@ -1,5 +1,5 @@
 // Service worker v14 — never cache, always fresh
-var CACHE_VERSION = 'kaspi-v14';
+var CACHE_VERSION = 'kaspi-v16';
 
 self.addEventListener('install', function(e) {
   self.skipWaiting();
